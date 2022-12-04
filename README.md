@@ -1,4 +1,4 @@
-<h1>Hi, I'm Alexandria! <br/><a href="https://github.com/joshmadakor1">SQL Developer </a>, <a href="https://www.linkedin.com/in/joshmadakor/">Data Analyst  </a>
+<h1>Hi, I'm Alexandria! <br/><a href="https://github.com/zandi2247">SQL Developer </a>, <a href="https://www.linkedin.com/in/alexandria-mcmillian-569a07198/">Data Analyst  </a>
 <h2>👨‍💻 SQL Projects:</h2>
 
 <h2>👨‍💻 Certifications :</h2>
