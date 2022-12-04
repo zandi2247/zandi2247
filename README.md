@@ -1,7 +1,15 @@
-### Hi there 👋
+<h1>Hi, I'm Alexandria! <br/><a href="https://github.com/joshmadakor1">SQL Developer </a>, <a href="https://www.linkedin.com/in/joshmadakor/">Data Analyst  </a>
+<h2>👨‍💻 SQL Projects:</h2>
+
+<h2>👨‍💻 Certifications :</h2>
+-[Goodle Data Analytics Certification](https://www.coursera.org/account/accomplishments/specialization/certificate/2C7REFPLFVTF)
+
+<h2>📺 Popular YouTube Videos</h2>
+
+
 
 <!--
-**zandi2247/zandi2247** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
