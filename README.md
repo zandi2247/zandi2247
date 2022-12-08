@@ -1,5 +1,7 @@
 <h1>Hi, I'm Alexandria! <br/><a href="https://github.com/zandi2247">SQL Developer </a>, <a href="https://www.linkedin.com/in/alexandria-mcmillian-569a07198/">Data Analyst  </a>
 <h2>👨‍💻 SQL Projects:</h2>
+  [Praciting unions, joins, and aggregate functions in MYSQL]
+  https://github.com/zandi2247/Project_1
 
 <h2>👨‍💻 Certifications :</h2>
 -[Goodle Data Analytics Certification](https://www.coursera.org/account/accomplishments/specialization/certificate/2C7REFPLFVTF)
