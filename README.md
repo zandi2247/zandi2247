@@ -1,4 +1,4 @@
-<h1>Hi, I'm Alexandria! <br/><a href="https://github.com/zandi2247">SQL Developer </a>, <a href="https://www.linkedin.com/in/alexandria-mcmillian-569a07198/">Data Analyst  </a>
+<h1>Hi, I'm Alexandria! <br/><a href="https://github.com/zandi2247">SQL Developer </a>, <a href="https://www.linkedin.com/in/alexandria-mcmillian-569a07198/">Database Administrator   </a>
 <h2>👨‍💻 SQL Projects:</h2>
   [Praciting unions, joins, and aggregate functions in MYSQL]
   https://github.com/zandi2247/Project_1
